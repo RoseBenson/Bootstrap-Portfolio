@@ -27,7 +27,7 @@ I have linked my taps to each section ensuring a smooth UX and ensured to make m
 
 ## Creator
 
-- Benson, Rosemary [Github Link](https://github.com/RoseBenson)
+- Rosemary Benson [Github Link](https://github.com/RoseBenson)
 
 
 ## Technologies 
