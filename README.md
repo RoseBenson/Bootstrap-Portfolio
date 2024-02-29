@@ -1,6 +1,6 @@
 # Bootstrap-Portfolio
 
-![Bootstrap Portfolio]()
+![Bootstrap Portfolio](./images/newPortfoliopic.JPG)
 
 ## Description
 
@@ -19,7 +19,7 @@ I have linked my taps to each section ensuring a smooth UX and ensured to make m
 
 #### Access the application on: - 
 
-[Link to deployed page]()
+[Link to deployed page](https://rosebenson.github.io/Bootstrap-Portfolio/)
 
 ![Bootstrap Portfolio landing page](./images/newPortfoliopic.JPG)
 
