@@ -21,9 +21,7 @@ I have linked my taps to each section ensuring a smooth UX and ensured to make m
 
 [Link to deployed page]()
 
-#### The following image shows the app's appearence:
-
-![Bootstrap Portfolio landing page]()
+![Bootstrap Portfolio landing page](./images/newPortfoliopic.JPG)
 
 
 
